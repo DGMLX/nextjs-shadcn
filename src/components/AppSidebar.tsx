@@ -1,4 +1,4 @@
-import { Calendar, ChevronDown, ChevronUp, DollarSign, Earth, Home, Inbox, PersonStandingIcon, Plus, Presentation, Projector, Search, Settings, Terminal, User2 } from "lucide-react";
+import { Calendar, ChevronDown, ChevronUp, DollarSign, Earth, Home, Inbox, PersonStandingIcon, Plus, Projector, Search, Settings, User2 } from "lucide-react";
 import { Sidebar, SidebarContent, SidebarFooter, SidebarGroup, SidebarGroupAction, SidebarGroupContent, SidebarGroupLabel, SidebarHeader, SidebarMenu, SidebarMenuBadge, SidebarMenuButton, SidebarMenuItem, SidebarMenuSub, SidebarMenuSubButton, SidebarMenuSubItem, SidebarSeparator } from "./ui/sidebar";
 import Link from "next/link";
 import Image from "next/image";

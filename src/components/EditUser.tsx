@@ -49,11 +49,10 @@ const EditUser = () =>{
     
   })
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
-    // Do something with the form values.
-    // ✅ This will be type-safe and validated.
-    console.log(values)
-  }
+//   function onSubmit(values: z.infer<typeof formSchema>) {
+
+//     console.log(values)
+//   }
     
     
     return(
